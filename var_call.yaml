@@ -1,0 +1,17 @@
+name: var_call
+channels:
+    - conda-forge
+    - bioconda
+    - defaults
+dependencies:
+  - fastqc
+  - fastp
+  - hisat2
+  - bwa
+  - samtools
+  - sra-tools
+  - multiqc
+  - picard
+  - gatk4
+  - bedtools
+  - bcftools
